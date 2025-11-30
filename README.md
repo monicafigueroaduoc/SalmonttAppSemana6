@@ -68,7 +68,7 @@ Incluye `GestorUnidades`, responsable de crear las instancias de prueba de cada 
 ## Instrucciones para clonar y ejecutar el proyecto
 1. Clonar el repositorio desde GitHub.
 ```bash
-Git clone [Codigo]
+Git clone [https://github.com/monicafigueroaduoc/SalmonttAppSemana6.git]
 ```
 2. Abre el proyecto en IntelliJ IDEA.
 3. Ejecutar la clase org.example.ui.Main.java
